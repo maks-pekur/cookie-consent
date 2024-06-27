@@ -799,4 +799,4 @@ if (typeof window !== 'undefined') {
 	window.CookieConsent = CookieConsent
 }
 
-window.CookieConsent = CookieConsent
+export default CookieConsent

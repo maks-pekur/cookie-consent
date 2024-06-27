@@ -1,6 +1,6 @@
 {
 	"name": "cookie-consent-lite",
-	"version": "1.0.0",
+	"version": "1.0.3",
 	"description": "A lightweight cookie consent script",
 	"main": "dist/cookie-consent.min.js",
 	"scripts": {
@@ -8,14 +8,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/maks-pekur/cookie-consent"
+		"url": "git+https://github.com/maks-pekur/cookie-consent.git"
 	},
 	"keywords": [
 		"cookie",
 		"consent",
 		"privacy"
 	],
-	"author": "Your Name",
+	"author": "Maks Pekur",
 	"license": "MIT",
 	"devDependencies": {
 		"webpack": "^5.40.0",
