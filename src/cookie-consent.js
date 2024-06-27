@@ -795,4 +795,8 @@ class CookieConsent {
 	}
 }
 
+if (typeof window !== 'undefined') {
+	window.CookieConsent = CookieConsent
+}
+
 window.CookieConsent = CookieConsent
