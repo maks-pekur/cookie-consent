@@ -795,6 +795,7 @@ class CookieConsent {
 	}
 }
 
+// Make CookieConsent globally available
 if (typeof window !== 'undefined') {
 	window.CookieConsent = CookieConsent
 }
