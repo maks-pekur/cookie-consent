@@ -8,8 +8,8 @@ module.exports = {
 		library: 'CookieConsent',
 		libraryTarget: 'umd',
 		globalObject: 'this',
-		umdNamedDefine: true,
 	},
+	mode: 'production',
 	module: {
 		rules: [
 			{

@@ -1,6 +1,6 @@
 {
 	"name": "cookie-consent-lite",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"description": "A lightweight cookie consent script",
 	"main": "dist/cookie-consent.min.js",
 	"scripts": {
