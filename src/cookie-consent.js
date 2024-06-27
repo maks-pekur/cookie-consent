@@ -799,5 +799,3 @@ class CookieConsent {
 if (typeof window !== 'undefined') {
 	window.CookieConsent = CookieConsent
 }
-
-export default CookieConsent
